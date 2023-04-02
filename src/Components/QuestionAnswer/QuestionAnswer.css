@@ -1,0 +1,11 @@
+.answer{
+    font-size: 20px;
+    color: rgb(3, 23, 19);
+    font-weight: 600;
+}
+.question-heading{
+    color: rgb(116, 9, 216);
+}
+.question{
+    color: rgb(0, 23, 137);
+}

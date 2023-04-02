@@ -1,0 +1,18 @@
+.spent-time{
+    background-color: #efedfd;
+    border-radius: 5px;
+    color:#6047EC ;
+    font-weight: 700;
+
+}
+.font-size{
+    font-weight: 600;
+}
+.bookmarked-bg{
+    background-color:rgba(61, 149, 200, 0.05);
+    padding: 10px ;
+}
+.single-blog-bg{
+    background-color:white ;
+
+}
